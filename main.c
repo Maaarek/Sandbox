@@ -1,12 +1,3 @@
-Zeile_1233223
-Zeile_2233223
-Zeile_323323
-Zeile_1233
-Zeile_2233
-Zeile_3233
-Funktioniert1
-Funktioniert2
-Funktioniert3
-Funktioniert4
-Neu
-Neuas
+Zeile1
+Zeile2
+Zeile3
